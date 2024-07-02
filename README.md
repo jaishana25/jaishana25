@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaishana25&label=Profile%20views&color=0e75b6&style=flat" alt="jaishana25" /> </p>
 
-- 🔭 I’m currently working on **A ROS Project at IBM**
+- 🔭 I’m currently working at Bosch, Bengaluru
 
 - 🌱 I’m currently learning **IoT & hosting**
 
